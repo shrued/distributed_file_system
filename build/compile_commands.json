@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/Users/shrued/Workspace/Projects/distributed_file_system/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/Users/shrued/Workspace/Projects/distributed_file_system/include -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/server.dir/src/server.cpp.o -c /Users/shrued/Workspace/Projects/distributed_file_system/src/server.cpp",
+  "file": "/Users/shrued/Workspace/Projects/distributed_file_system/src/server.cpp",
+  "output": "CMakeFiles/server.dir/src/server.cpp.o"
+},
+{
+  "directory": "/Users/shrued/Workspace/Projects/distributed_file_system/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/Users/shrued/Workspace/Projects/distributed_file_system/include -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/server.dir/src/file_system.cpp.o -c /Users/shrued/Workspace/Projects/distributed_file_system/src/file_system.cpp",
+  "file": "/Users/shrued/Workspace/Projects/distributed_file_system/src/file_system.cpp",
+  "output": "CMakeFiles/server.dir/src/file_system.cpp.o"
+},
+{
+  "directory": "/Users/shrued/Workspace/Projects/distributed_file_system/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/Users/shrued/Workspace/Projects/distributed_file_system/include -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/server.dir/src/network.cpp.o -c /Users/shrued/Workspace/Projects/distributed_file_system/src/network.cpp",
+  "file": "/Users/shrued/Workspace/Projects/distributed_file_system/src/network.cpp",
+  "output": "CMakeFiles/server.dir/src/network.cpp.o"
+},
+{
+  "directory": "/Users/shrued/Workspace/Projects/distributed_file_system/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/Users/shrued/Workspace/Projects/distributed_file_system/include -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/client.dir/src/client.cpp.o -c /Users/shrued/Workspace/Projects/distributed_file_system/src/client.cpp",
+  "file": "/Users/shrued/Workspace/Projects/distributed_file_system/src/client.cpp",
+  "output": "CMakeFiles/client.dir/src/client.cpp.o"
+},
+{
+  "directory": "/Users/shrued/Workspace/Projects/distributed_file_system/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/Users/shrued/Workspace/Projects/distributed_file_system/include -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/client.dir/src/file_system.cpp.o -c /Users/shrued/Workspace/Projects/distributed_file_system/src/file_system.cpp",
+  "file": "/Users/shrued/Workspace/Projects/distributed_file_system/src/file_system.cpp",
+  "output": "CMakeFiles/client.dir/src/file_system.cpp.o"
+},
+{
+  "directory": "/Users/shrued/Workspace/Projects/distributed_file_system/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/Users/shrued/Workspace/Projects/distributed_file_system/include -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/client.dir/src/network.cpp.o -c /Users/shrued/Workspace/Projects/distributed_file_system/src/network.cpp",
+  "file": "/Users/shrued/Workspace/Projects/distributed_file_system/src/network.cpp",
+  "output": "CMakeFiles/client.dir/src/network.cpp.o"
+}
+]

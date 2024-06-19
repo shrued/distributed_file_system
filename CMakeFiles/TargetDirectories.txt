@@ -1,0 +1,4 @@
+/Users/shrued/Workspace/Projects/distributed_file_system/CMakeFiles/server.dir
+/Users/shrued/Workspace/Projects/distributed_file_system/CMakeFiles/client.dir
+/Users/shrued/Workspace/Projects/distributed_file_system/CMakeFiles/edit_cache.dir
+/Users/shrued/Workspace/Projects/distributed_file_system/CMakeFiles/rebuild_cache.dir
